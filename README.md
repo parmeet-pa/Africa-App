@@ -17,3 +17,6 @@ Learn how to optimize the app’s layout for iPad screens.
 How to transfer an iPad app to a desktop app with MAC CATALYST.
 
 Learn how to create a motion animation programmatically.
+
+
+Note:- screen1 and screens1 are same it is just an implementation of list and stack if a user want to see it as stack view or in a list view. 
